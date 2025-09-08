@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "title": "Schecter 3701 Synyster Gates-GA",
+    "price_usd": 910,
+    "price_idr": 14000000,
+    "image": "https://www.schecterguitars.com/images/Synyster%20Gates%20'SYN%20GA%20SC'%20Acoustic.01.png",
+    "category": "Schecter",
+    "weight": "5.03 kg",
+    "dimensions": "111.8 x 48.3 x 12.7 cm",
+    "model": "3701",
+    "strings": 6,
+    "color": "TBBS",
+    "materials": {
+      "body": "Rosewood",
+      "back": "Rosewood",
+      "top": "Spruce",
+      "fretboard": "Rosewood",
+      "neck": "Rosewood",
+      "strings": "Steel Alloy"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Schecter Synyster Gates Custom-S Black Silver",
+    "price_usd": 2145,
+    "price_idr": 33000000,
+    "image": "https://www.schecterguitars.com/images/Synyster%20Custom-S.Gloss%20Black%20with%20Silver%20Pinstripes.01.png",
+    "category": "Schecter",
+    "weight": "7 kg",
+    "dimensions": "111.8 x 48.3 x 12.7 cm",
+    "model": "74",
+    "strings": 6,
+    "color": "Black with Silver Stripes",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Mahogany",
+      "fretboard": "Ebony",
+      "neck": "Mahogany",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Schecter Synyster Gates Gloss White",
+    "price_usd": 1365,
+    "price_idr": 21000000,
+    "image": "https://www.schecterguitars.com/images/Synyster%20Standard.Gloss%20White%20with%20Black%20Pinstripes.01.png",
+    "category": "Schecter",
+    "weight": "7.09 kg",
+    "dimensions": "111.8 x 48.3 x 12.7 cm",
+    "strings": 6,
+    "color": "White",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Maple",
+      "top": "Mahogany",
+      "fretboard": "Maple",
+      "neck": "Maple",
+      "strings": "Steel Alloy"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Schecter Synyster Gates Custom-S Satin Gold Burst",
+    "price_usd": 2145,
+    "price_idr": 33000000,
+    "image": "https://www.schecterguitars.com/images/Synyster%20Custom-S.Satin%20Gold%20Burst%20(SGB).01.png",
+    "category": "Schecter",
+    "weight": "5.6 kg",
+    "dimensions": "111.8 x 48.3 x 12.7 cm",
+    "model": "743",
+    "strings": 6,
+    "color": "Gold Burst",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Carbon Fiber, Mahogany",
+      "top": "Ebony, Mahogany",
+      "fretboard": "Mahogany",
+      "neck": "Maple",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Schecter Zacky Vengeance 6661 Satin Black",
+    "price_usd": 3835,
+    "price_idr": 59000000,
+    "image": "https://www.imaginationmusicstore.com/image-product/img12822-1697035483.png",
+    "category": "Schecter",
+    "weight": "0.45 kg",
+    "dimensions": "107.3 x 40 x 10.2 cm",
+    "strings": 6,
+    "color": "Black",
+    "materials": {
+      "body": "Mahogany, Rosewood",
+      "fretboard": "Rosewood",
+      "neck": "Maple"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Gibson Custom 2012 1959 Les Paul Standard VOS",
+    "price_usd": 12220,
+    "price_idr": 188000000,
+    "image": "https://guitarvillage.co.uk/wp-content/uploads/2023/03/Gibson_LP59_Yamano_LemonFade_339_01-scaled.jpg",
+    "category": "Gibson",
+    "weight": "6.8 kg",
+    "dimensions": "116.8 x 61 x 10.2 cm",
+    "model": "LPR9VOWCNH1",
+    "strings": 6,
+    "color": "Washed Cherry",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Maple",
+      "fretboard": "Rosewood",
+      "neck": "Mahogany",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Gibson Les Paul Modern Supreme Transparent Ebony Burst",
+    "price_usd": 8580,
+    "price_idr": 132000000,
+    "image": "https://www.ginomusica.it/libimg2/products/1200x800/0/90/Gibson-Les-Paul-Supreme-TE.jpg",
+    "category": "Gibson",
+    "dimensions": "115 x 44 x 19.5 cm",
+    "strings": 6,
+    "color": "Ebony Burst",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Maple",
+      "fretboard": "Richlite",
+      "neck": "Mahogany",
+      "strings": "Steel Alloy"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Epiphone Les Paul Custom Alpine White",
+    "price_usd": 1820,
+    "price_idr": 28000000,
+    "image": "https://www.stars-music.com/medias/epiphone/cropped-les-paul-custom-2h-ht-eb-165788.jpeg",
+    "category": "Epiphone",
+    "weight": "8.78 kg",
+    "dimensions": "111.2 x 40.2 x 15 cm",
+    "model": "ECLPCAWGH1",
+    "strings": 6,
+    "color": "Alpine White",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Maple",
+      "fretboard": "Ebony",
+      "neck": "Maple",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Fender Dave Murray Stratocaster Sunburst",
+    "price_usd": 2015,
+    "price_idr": 31000000,
+    "image": "https://stevesmusic.com/cdn/shop/files/55682.jpg?v=1712298226&width=2400",
+    "category": "Fender",
+    "weight": "5.9 kg",
+    "dimensions": "106.7 x 38.1 x 12.7 cm",
+    "model": "0141010303",
+    "strings": 6,
+    "color": "Two-Tone Sunburst",
+    "materials": {
+      "body": "Alder",
+      "back": "Alder",
+      "top": "Rosewood",
+      "fretboard": "Rosewood",
+      "neck": "Rosewood",
+      "strings": "Nickel Steel"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Fender Player II Stratocaster Sunburst Sparkle Limited",
+    "price_usd": 1365,
+    "price_idr": 21000000,
+    "image": "https://www.fender.com/cdn-cgi/image/format=auto,resize=height=auto,width=850/https://www.fmicassets.com/Damroot/eCommPNG/10072/0140510551_fen_ins_frt_1_rr.png",
+    "category": "Fender",
+    "weight": "5.49 kg",
+    "dimensions": "108.7 x 38.6 x 11.7 cm",
+    "model": "LTDPLIISTRWSPKL3TS",
+    "strings": 3,
+    "color": "Sunburst 3-color Sparkle",
+    "materials": {
+      "body": "Alder",
+      "back": "Alder",
+      "top": "Alder",
+      "fretboard": "Rosewood",
+      "neck": "Maple",
+      "strings": "Steel Alloy"
+    }
+  },
+    {
+    "id": 11,
+    "title": "Fender Player Stratocaster Black",
+    "price_usd": 880,
+    "price_idr": 13500000,
+    "image": "https://cloudadmin.rockshop.co.nz/media/catalog/product/0/1/0144502506_gtr_frt_001_rr.jpg",
+    "category": "Fender",
+    "weight": "4.5 kg",
+    "dimensions": "113 x 38 x 11 cm",
+    "model": "0144502506",
+    "strings": 6,
+    "color": "Black",
+    "materials": {
+      "body": "Alder",
+      "back": "Alder",
+      "top": "Alder",
+      "fretboard": "Pau Ferro",
+      "neck": "Maple",
+      "strings": "Nickel Steel"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Fender Standard Stratocaster HSS Candy Cola",
+    "price_usd": 710,
+    "price_idr": 11010000,
+    "image": "https://images.musicstore.de/langtextbilder/1280/fender-standard-strat-mn-cnd-git0062950-002_GIT0062950-002.jpg",
+    "category": "Fender",
+    "weight": "4.6 kg",
+    "dimensions": "113 x 39 x 11 cm",
+    "model": "0134700538",
+    "strings": 6,
+    "color": "Candy Cola",
+    "materials": {
+      "body": "Alder",
+      "back": "Alder",
+      "top": "Alder",
+      "fretboard": "Laurel",
+      "neck": "Maple",
+      "strings": "Nickel Steel"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Fender Standard Telecaster Aqua Marine Metallic",
+    "price_usd": 710,
+    "price_idr": 11010000,
+    "image": "https://www.kitarapaja.com/images/products/0266020560-fen-ins-frt-1-rr_orig.png",
+    "category": "Fender",
+    "weight": "4.3 kg",
+    "dimensions": "112 x 38 x 11 cm",
+    "model": "0135102576",
+    "strings": 6,
+    "color": "Aqua Marine Metallic",
+    "materials": {
+      "body": "Alder",
+      "back": "Alder",
+      "top": "Alder",
+      "fretboard": "Maple",
+      "neck": "Maple",
+      "strings": "Steel Alloy"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Fender Traditional 60s Stratocaster Olympic White",
+    "price_usd": 1170,
+    "price_idr": 18300000,
+    "image": "https://www.fender.com/cdn-cgi/image/format=auto,resize=height=auto,width=850/https://www.fmicassets.com/Damroot/eCommPNG/10017/5371400305_fen_ins_frt_1_rr.png",
+    "category": "Fender",
+    "weight": "4.4 kg",
+    "dimensions": "113 x 39 x 11 cm",
+    "model": "JD24014303",
+    "strings": 6,
+    "color": "Olympic White",
+    "materials": {
+      "body": "Alder",
+      "back": "Alder",
+      "top": "Alder",
+      "fretboard": "Rosewood",
+      "neck": "Maple",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Fender MIJ 70s Telecaster Deluxe Black",
+    "price_usd": 1250,
+    "price_idr": 19500000,
+    "image": "https://cdn.long-mcquade.com/files/169292/lg_92eb10cb609ad32ecae0824fa02a6550.jpg",
+    "category": "Fender",
+    "weight": "4.7 kg",
+    "dimensions": "112 x 39 x 11 cm",
+    "model": "JD23030563",
+    "strings": 6,
+    "color": "Black",
+    "materials": {
+      "body": "Alder",
+      "back": "Alder",
+      "top": "Alder",
+      "fretboard": "Maple",
+      "neck": "Maple",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Gibson SG Standard 61 TV Yellow",
+    "price_usd": 1850,
+    "price_idr": 28900000,
+    "image": "https://www.stars-music.com/medias/gibson/cropped-sg-standard-custom-color-2h-ht-rw-203326.jpeg",
+    "category": "Gibson",
+    "weight": "3.5 kg",
+    "dimensions": "111 x 40 x 10 cm",
+    "model": "229330291",
+    "strings": 6,
+    "color": "TV Yellow",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Mahogany",
+      "fretboard": "Rosewood",
+      "neck": "Mahogany",
+      "strings": "Steel Alloy"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Gibson SG Standard 61 Sideways Vibrola Vintage Cherry",
+    "price_usd": 2080,
+    "price_idr": 32500000,
+    "image": "https://www.ginomusica.it/images/products/Gibson-USA-SG61W19VENH1.jpg",
+    "category": "Gibson",
+    "weight": "3.6 kg",
+    "dimensions": "111 x 40 x 10 cm",
+    "model": "224420048",
+    "strings": 6,
+    "color": "Vintage Cherry",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Mahogany",
+      "fretboard": "Rosewood",
+      "neck": "Mahogany",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Gibson Les Paul Classic Ebony",
+    "price_usd": 2310,
+    "price_idr": 36080000,
+    "image": "https://www.stars-music.com/medias/gibson/cropped-les-paul-classic-modern-2h-ht-rw-158246.jpeg",
+    "category": "Gibson",
+    "weight": "4.8 kg",
+    "dimensions": "113 x 42 x 11 cm",
+    "model": "229630237",
+    "strings": 6,
+    "color": "Ebony",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Maple",
+      "fretboard": "Rosewood",
+      "neck": "Mahogany",
+      "strings": "Steel Alloy"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Gibson ES-330 Sixties Cherry",
+    "price_usd": 3710,
+    "price_idr": 57900000,
+    "image": "https://www.stars-music.com/medias/gibson/cropped-es-330-2s-p90-ht-rw-214631.png",
+    "category": "Gibson",
+    "weight": "3.1 kg",
+    "dimensions": "114 x 42 x 11 cm",
+    "model": "ES330SC",
+    "strings": 6,
+    "color": "Sixties Cherry",
+    "materials": {
+      "body": "Maple",
+      "back": "Maple",
+      "top": "Maple",
+      "fretboard": "Rosewood",
+      "neck": "Mahogany",
+      "strings": "Nickel"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Epiphone Les Paul Standard 60s Bourbon Burst",
+    "price_usd": 820,
+    "price_idr": 12700000,
+    "image": "https://cdn.long-mcquade.com/files/164736/lg_8d51b46e68ea692f0a6d35c95fcc703e.jpg",
+    "category": "Epiphone",
+    "weight": "4.5 kg",
+    "dimensions": "111 x 40 x 11 cm",
+    "model": "EILS6BBNH1",
+    "strings": 6,
+    "color": "Bourbon Burst",
+    "materials": {
+      "body": "Mahogany",
+      "back": "Mahogany",
+      "top": "Maple",
+      "fretboard": "Indian Laurel",
+      "neck": "Mahogany",
+      "strings": "Nickel Steel"
+    }
+  }
+  
+]
