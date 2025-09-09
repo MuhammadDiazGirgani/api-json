@@ -562,77 +562,109 @@
 {
   "id": 28,
   "title": "ESP James Hetfield Signature Vulture Olympic White",
-  "brand": "ESP",
-  "type": "Vulture",
-  "price_idr": 126422863,
   "price_usd": 8157,
+  "price_idr": 126422863,
   "image": "https://www.lamusic.com/cdn/shop/files/original_137eff3f-d9ce-4504-b5dc-98a43da51553_2400x983.png?v=1687270898",
-  "specifications": {
-    "weight": "22 Pound (9,98 kg)",
-    "dimensions": "4330.7 x 1574.8 x 590.55 inci (11000 x 4000 x 1500 cm)",
-    "first_available_date": "6 Januari 2024",
-    "body_material": "Mahogany",
-    "back_material": "Mahogany",
-    "top_material": "Mahogany",
-    "string_material": "Mahogany",
-    "neck_material": "Mahogany",
-    "fingerboard_material": "Mahogany",
-    "scale_length": "24.75 Inci (62,9 cm)",
-    "pickup_configuration": "H",
-    "bridge_system": "Tremolo",
-    "number_of_strings": 6,
-    "color": "Putih",
-    "hand_orientation": "Kiri"
+  "category": "ESP",
+  "weight": "9.98 kg",
+  "dimensions": "110 x 40 x 15 cm",
+  "model": "Vulture Olympic White",
+  "strings": 6,
+  "color": "Putih",
+  "materials": {
+    "body": "Mahogany",
+    "back": "Mahogany",
+    "top": "Mahogany",
+    "fretboard": "Mahogany",
+    "neck": "Mahogany",
+    "strings": "Steel Alloy"
   }
 },
 {
   "id": 29,
   "title": "Schecter Synyster Gates Custom-6 TR-S Signature Headless in Black",
-  "brand": "Schecter",
-  "type": "Signature",
-  "price_idr": 39950000,
   "price_usd": 2577,
+  "price_idr": 39950000,
   "image": "https://www.schecter-guitars.de/fileadmin/user_upload/product_images/SC2115/sc2115-web-original_rotated.png",
-  "specifications": {
-    "body_finish": "Satin",
-    "color": "Black",
-    "neck_material": "3-piece Mahogany",
-    "neck_shape": "Ultra Thin C",
-    "neck_joint": "Set Neck",
-    "fingerboard_radius": "16\"",
-    "fingerboard_material": "Ebony",
-    "fingerboard_inlay": "Signature inlay on 12th fret",
-    "number_of_frets": "24, Extra Jumbo, Stainless Steel",
-    "scale_length": "25.5\"",
-    "nut_width": "1.653\"",
-    "nut_material": "GraphTech Black Tusq XL",
-    "bridge_tailpiece": "Hipshot 6-string Headless"
+  "category": "Schecter",
+  "weight": "3.8 kg",
+  "dimensions": "105 x 38 x 9 cm",
+  "model": "Synyster Gates Custom-6 TR-S",
+  "strings": 6,
+  "color": "Black",
+  "materials": {
+    "body": "Mahogany",
+    "back": "Mahogany",
+    "top": "Mahogany",
+    "fretboard": "Ebony",
+    "neck": "3-piece Mahogany",
+    "strings": "Steel Alloy"
   }
 },
 {
   "id": 30,
   "title": "Schecter Synyster Gates Signature Dark Night",
-  "brand": "Schecter",
-  "type": "Signature",
-  "price_idr": 31185000,
   "price_usd": 1999,
+  "price_idr": 31185000,
   "image": "https://cdn.mos.cms.futurecdn.net/2qJH53RBKqPGoi8M8Xuddc-650-80.jpg.webp",
-  "specifications": {
-    "relic": "Distressed",
-    "number_of_strings": 6,
-    "orientation": "Right-handed",
-    "body_type": "Solidbody",
-    "body_shape": "Synyster Gates Custom-S",
-    "body_material": "Mahogany",
-    "body_finish": "Satin",
-    "color": "Black",
-    "neck_material": "3-piece Mahogany",
-    "neck_shape": "Ultra Thin C",
-    "neck_joint": "Set Neck",
-    "radius": "16\"",
-    "fingerboard_material": "Ebony",
-    "fingerboard_inlay": "Gothic Cross, Syn Deathbird"
+  "category": "Schecter",
+  "weight": "4.0 kg",
+  "dimensions": "107 x 39 x 10 cm",
+  "model": "Synyster Gates Custom-S Dark Night",
+  "strings": 6,
+  "color": "Black",
+  "materials": {
+    "body": "Mahogany",
+    "back": "Mahogany",
+    "top": "Mahogany",
+    "fretboard": "Ebony",
+    "neck": "3-piece Mahogany",
+    "strings": "Steel Alloy"
+  } 
+},
+{
+  "id": 31,
+  "title": "Schecter S-1 SGR BLK Gloss Black",
+  "price_usd": 171,
+  "price_idr": 2704000,
+  "image": "https://hariharimusik.id/wp-content/uploads/2021/10/SGR-S-1-BLK-TILT.png",
+  "category": "Schecter",
+  "weight": "3.5 kg",
+  "dimensions": "105 x 40 x 10 cm",
+  "model": "S-1 SGR BLK",
+  "strings": 6,
+  "color": "Gloss Black",
+  "materials": {
+    "body": "Basswood",
+    "back": "Basswood",
+    "top": "Arched Top",
+    "fretboard": "Rosewood",
+    "neck": "Maple",
+    "strings": "Steel Alloy"
+  }
+},
+{
+  "id": 32,
+  "title": "Schecter Johnny Christ SBK Bass Electric",
+  "price_usd": 709,
+  "price_idr": 11176000,
+  "image": "https://www.lamusic.com/cdn/shop/products/johnny-christ-artist-model-tilt_960x419.png?v=1500499572",
+  "category": "Schecter",
+  "weight": "4.5 kg",
+  "dimensions": "120 x 42 x 12 cm",
+  "model": "Johnny Christ SBK Bass",
+  "strings": 4,
+  "color": "Satin Black",
+  "materials": {
+    "body": "Ash",
+    "back": "Ash",
+    "top": "Ash",
+    "fretboard": "Ebony",
+    "neck": "3-pc Maple",
+    "strings": "Steel Alloy"
   }
 }
+
+
 
 ]
